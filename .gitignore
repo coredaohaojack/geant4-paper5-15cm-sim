@@ -1,0 +1,7 @@
+build/
+*.root
+*.exe
+*.obj
+*.log
+*.csv
+!manifest.csv

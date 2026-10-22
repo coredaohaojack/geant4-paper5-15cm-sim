@@ -1,0 +1,508 @@
+{
+  "haoidlemystic1": {
+    "1": [
+      {
+        "job_name": "S0_0.5cm_60keV",
+        "sample": "S0",
+        "energy_kev": 60.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E60.mac",
+        "csv_filename": "S0_0.5cm_60keV.csv",
+        "root_filename": "hist_S0_D5_E60.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S0_0.5cm_186keV",
+        "sample": "S0",
+        "energy_kev": 186.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E186.mac",
+        "csv_filename": "S0_0.5cm_186keV.csv",
+        "root_filename": "hist_S0_D5_E186.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S0_0.5cm_242keV",
+        "sample": "S0",
+        "energy_kev": 242.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E242.mac",
+        "csv_filename": "S0_0.5cm_242keV.csv",
+        "root_filename": "hist_S0_D5_E242.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S0_0.5cm_295keV",
+        "sample": "S0",
+        "energy_kev": 295.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E295.mac",
+        "csv_filename": "S0_0.5cm_295keV.csv",
+        "root_filename": "hist_S0_D5_E295.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S0_0.5cm_352keV",
+        "sample": "S0",
+        "energy_kev": 352.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E352.mac",
+        "csv_filename": "S0_0.5cm_352keV.csv",
+        "root_filename": "hist_S0_D5_E352.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S0_0.5cm_609keV",
+        "sample": "S0",
+        "energy_kev": 609.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E609.mac",
+        "csv_filename": "S0_0.5cm_609keV.csv",
+        "root_filename": "hist_S0_D5_E609.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S0_0.5cm_662keV",
+        "sample": "S0",
+        "energy_kev": 662.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S0_D5_E662.mac",
+        "csv_filename": "S0_0.5cm_662keV.csv",
+        "root_filename": "hist_S0_D5_E662.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S1_0.5cm_60keV",
+        "sample": "S1",
+        "energy_kev": 60.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E60.mac",
+        "csv_filename": "S1_0.5cm_60keV.csv",
+        "root_filename": "hist_S1_D5_E60.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S1_0.5cm_186keV",
+        "sample": "S1",
+        "energy_kev": 186.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E186.mac",
+        "csv_filename": "S1_0.5cm_186keV.csv",
+        "root_filename": "hist_S1_D5_E186.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S1_0.5cm_242keV",
+        "sample": "S1",
+        "energy_kev": 242.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E242.mac",
+        "csv_filename": "S1_0.5cm_242keV.csv",
+        "root_filename": "hist_S1_D5_E242.root"
+      }
+    ]
+  },
+  "vuicho": {
+    "1": [
+      {
+        "job_name": "S1_0.5cm_295keV",
+        "sample": "S1",
+        "energy_kev": 295.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E295.mac",
+        "csv_filename": "S1_0.5cm_295keV.csv",
+        "root_filename": "hist_S1_D5_E295.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S1_0.5cm_352keV",
+        "sample": "S1",
+        "energy_kev": 352.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E352.mac",
+        "csv_filename": "S1_0.5cm_352keV.csv",
+        "root_filename": "hist_S1_D5_E352.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S1_0.5cm_609keV",
+        "sample": "S1",
+        "energy_kev": 609.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E609.mac",
+        "csv_filename": "S1_0.5cm_609keV.csv",
+        "root_filename": "hist_S1_D5_E609.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S1_0.5cm_662keV",
+        "sample": "S1",
+        "energy_kev": 662.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S1_D5_E662.mac",
+        "csv_filename": "S1_0.5cm_662keV.csv",
+        "root_filename": "hist_S1_D5_E662.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S2_0.5cm_60keV",
+        "sample": "S2",
+        "energy_kev": 60.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E60.mac",
+        "csv_filename": "S2_0.5cm_60keV.csv",
+        "root_filename": "hist_S2_D5_E60.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S2_0.5cm_186keV",
+        "sample": "S2",
+        "energy_kev": 186.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E186.mac",
+        "csv_filename": "S2_0.5cm_186keV.csv",
+        "root_filename": "hist_S2_D5_E186.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S2_0.5cm_242keV",
+        "sample": "S2",
+        "energy_kev": 242.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E242.mac",
+        "csv_filename": "S2_0.5cm_242keV.csv",
+        "root_filename": "hist_S2_D5_E242.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S2_0.5cm_295keV",
+        "sample": "S2",
+        "energy_kev": 295.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E295.mac",
+        "csv_filename": "S2_0.5cm_295keV.csv",
+        "root_filename": "hist_S2_D5_E295.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S2_0.5cm_352keV",
+        "sample": "S2",
+        "energy_kev": 352.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E352.mac",
+        "csv_filename": "S2_0.5cm_352keV.csv",
+        "root_filename": "hist_S2_D5_E352.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S2_0.5cm_609keV",
+        "sample": "S2",
+        "energy_kev": 609.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E609.mac",
+        "csv_filename": "S2_0.5cm_609keV.csv",
+        "root_filename": "hist_S2_D5_E609.root"
+      }
+    ]
+  },
+  "haoidle4zk": {
+    "1": [
+      {
+        "job_name": "S2_0.5cm_662keV",
+        "sample": "S2",
+        "energy_kev": 662.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S2_D5_E662.mac",
+        "csv_filename": "S2_0.5cm_662keV.csv",
+        "root_filename": "hist_S2_D5_E662.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S3_0.5cm_60keV",
+        "sample": "S3",
+        "energy_kev": 60.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E60.mac",
+        "csv_filename": "S3_0.5cm_60keV.csv",
+        "root_filename": "hist_S3_D5_E60.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S3_0.5cm_186keV",
+        "sample": "S3",
+        "energy_kev": 186.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E186.mac",
+        "csv_filename": "S3_0.5cm_186keV.csv",
+        "root_filename": "hist_S3_D5_E186.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S3_0.5cm_242keV",
+        "sample": "S3",
+        "energy_kev": 242.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E242.mac",
+        "csv_filename": "S3_0.5cm_242keV.csv",
+        "root_filename": "hist_S3_D5_E242.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S3_0.5cm_295keV",
+        "sample": "S3",
+        "energy_kev": 295.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E295.mac",
+        "csv_filename": "S3_0.5cm_295keV.csv",
+        "root_filename": "hist_S3_D5_E295.root"
+      }
+    ],
+    "6": [
+      {
+        "job_name": "S3_0.5cm_352keV",
+        "sample": "S3",
+        "energy_kev": 352.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E352.mac",
+        "csv_filename": "S3_0.5cm_352keV.csv",
+        "root_filename": "hist_S3_D5_E352.root"
+      }
+    ],
+    "7": [
+      {
+        "job_name": "S3_0.5cm_609keV",
+        "sample": "S3",
+        "energy_kev": 609.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E609.mac",
+        "csv_filename": "S3_0.5cm_609keV.csv",
+        "root_filename": "hist_S3_D5_E609.root"
+      }
+    ],
+    "8": [
+      {
+        "job_name": "S3_0.5cm_662keV",
+        "sample": "S3",
+        "energy_kev": 662.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S3_D5_E662.mac",
+        "csv_filename": "S3_0.5cm_662keV.csv",
+        "root_filename": "hist_S3_D5_E662.root"
+      }
+    ],
+    "9": [
+      {
+        "job_name": "S4_0.5cm_60keV",
+        "sample": "S4",
+        "energy_kev": 60.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E60.mac",
+        "csv_filename": "S4_0.5cm_60keV.csv",
+        "root_filename": "hist_S4_D5_E60.root"
+      }
+    ],
+    "10": [
+      {
+        "job_name": "S4_0.5cm_186keV",
+        "sample": "S4",
+        "energy_kev": 186.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E186.mac",
+        "csv_filename": "S4_0.5cm_186keV.csv",
+        "root_filename": "hist_S4_D5_E186.root"
+      }
+    ]
+  },
+  "67hao": {
+    "1": [
+      {
+        "job_name": "S4_0.5cm_242keV",
+        "sample": "S4",
+        "energy_kev": 242.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E242.mac",
+        "csv_filename": "S4_0.5cm_242keV.csv",
+        "root_filename": "hist_S4_D5_E242.root"
+      }
+    ],
+    "2": [
+      {
+        "job_name": "S4_0.5cm_295keV",
+        "sample": "S4",
+        "energy_kev": 295.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E295.mac",
+        "csv_filename": "S4_0.5cm_295keV.csv",
+        "root_filename": "hist_S4_D5_E295.root"
+      }
+    ],
+    "3": [
+      {
+        "job_name": "S4_0.5cm_352keV",
+        "sample": "S4",
+        "energy_kev": 352.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E352.mac",
+        "csv_filename": "S4_0.5cm_352keV.csv",
+        "root_filename": "hist_S4_D5_E352.root"
+      }
+    ],
+    "4": [
+      {
+        "job_name": "S4_0.5cm_609keV",
+        "sample": "S4",
+        "energy_kev": 609.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E609.mac",
+        "csv_filename": "S4_0.5cm_609keV.csv",
+        "root_filename": "hist_S4_D5_E609.root"
+      }
+    ],
+    "5": [
+      {
+        "job_name": "S4_0.5cm_662keV",
+        "sample": "S4",
+        "energy_kev": 662.0,
+        "thickness_cm": 0.5,
+        "macro_file": "run_S4_D5_E662.mac",
+        "csv_filename": "S4_0.5cm_662keV.csv",
+        "root_filename": "hist_S4_D5_E662.root"
+      }
+    ],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "idlemystich": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "CarwynDuc": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "laolaolaoma09": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "Bethwl": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "coredaohaojack": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "htvnhe": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "haohue27": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "fewhourtorelax": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  },
+  "zotactothesun": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": [],
+    "8": [],
+    "9": [],
+    "10": []
+  }
+}
